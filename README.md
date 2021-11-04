@@ -19,7 +19,7 @@ Sentiment analysis can benefit almost any area of business. Whether it’s in po
 ##### 7.Clothing Retail Industry Sentiment Mining
 Read the [Blog](https://www.repustate.com/blog/sentiment-analysis-real-world-examples/) to details Know How to use cases of sentiment analysis across industries.
 ## Real Time Demo:
-This is Posetive sentiment.When I says Welcome My Github Page.Polarity become posetive
+This is Posetive sentiment.When I says Welcome My Github Page.Polarity become positive
 ![alt image](https://github.com/sou35/sentiment-analysis-real-speech/blob/master/Positive.png)
 When i says There is a book on the table.Polarity become Zero.This is Neutral Sentiment.
 ![alt image](https://github.com/sou35/sentiment-analysis-real-speech/blob/master/Neutral.png)
