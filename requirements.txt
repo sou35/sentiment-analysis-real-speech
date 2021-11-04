@@ -1,1 +1,5 @@
-streamlit
+streamlit==0.82.0
+numpy==1.19.5
+textblob== 0.15.3
+streamlit_bokeh_events== 0.1.2
+bokeh==2.3.2
